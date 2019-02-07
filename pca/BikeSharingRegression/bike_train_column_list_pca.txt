@@ -1,0 +1,1 @@
+count,season,holiday,workingday,weather,year,month,day,dayofweek,hour,component_0,component_1,component_2
